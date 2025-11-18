@@ -6,7 +6,7 @@ University Name: K.R. Mangalam University
 Date:18-11-2025 
 Assignment:01 - Contact Book using CSV and JSON files
 
-       Attendance Tracker Program
+       Contact_book_management_system
 ---------------------------------------------
 This project is a python based Contact Book management system that allows
 user to manage contact information Such as Name, Phone Number, and Email Address.
